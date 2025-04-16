@@ -87,8 +87,6 @@ A simulated breach in smart EV charging control systems demonstrates how Wazuh c
 - Wazuh Security Event Monitoring
 - MITRE ATT&CK Technique Mapping
 
-![Sample Dashboard](../images/wazuh_ui_02a.png)
-
 ➡️ Screenshots: [`Dashboards`](./edr-ir-implementation.md#8-dashboard-samples)
 
 ---
