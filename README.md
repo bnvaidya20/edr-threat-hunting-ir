@@ -32,7 +32,7 @@ This repository demonstrates practical implementations of **EDR (Endpoint Detect
 | Ubuntu Endpoint  | 192.168.0.104  | Wazuh Agent + Red Team   |
 | VirtualBox Host  | —              | Bridged Networking       |
 
-➡️ Refer to: [`EDR Implementation Guide`](./edr-ir-implementation.md#step-by-step-setup)
+➡️ Refer to: [`EDR Implementation Guide`](./docs/edr-ir-implementation.md#step-by-step-setup)
 
 ---
 
@@ -46,7 +46,7 @@ This repository demonstrates practical implementations of **EDR (Endpoint Detect
 | Credential Dumping                     | [T1003](https://attack.mitre.org/techniques/T1003/) |
 | Remote File Copy (Exfiltration)        | [T1105](https://attack.mitre.org/techniques/T1105/) |
 
-➡️ Refer to: [`Red Team Attack Simulation`](./edr-ir-implementation.md#6-simulate-attacks-red-team)
+➡️ Refer to: [`Red Team Attack Simulation`](./docs/edr-ir-implementation.md#6-simulate-attacks-red-team)
 
 ---
 
@@ -56,7 +56,7 @@ This repository demonstrates practical implementations of **EDR (Endpoint Detect
 - Monitor file integrity and system logs.
 - Investigate credential theft or log manipulation attempts.
 
-➡️ Refer to: [`Threat Hunting`](./edr-ir-implementation.md#7-threat-hunting-blue-team)
+➡️ Refer to: [`Threat Hunting`](./docs/edr-ir-implementation.md#7-threat-hunting-blue-team)
 
 ---
 
@@ -68,7 +68,7 @@ A simulated breach in smart EV charging control systems demonstrates how Wazuh c
 - Cron job persistence with reverse shell payloads.
 - Exfiltration attempts using remote file copy tools.
 
-➡️ Detailed Report: [`EV Charging Use Case`](./evcim-use-case.md)
+➡️ Detailed Report: [`EV Charging Use Case`](./docs/evcim-use-case.md)
 
 ---
 
@@ -78,7 +78,7 @@ A simulated breach in smart EV charging control systems demonstrates how Wazuh c
 - Analyze artifacts with Volatility3 for memory forensics.
 - Document findings in structured incident reports.
 
-➡️ Template: [`Incident Report Format`](./edr-ir-implementation.md#8-incident-response--forensics)
+➡️ Template: [`Incident Report Format`](./docs/edr-ir-implementation.md#8-incident-response--forensics)
 
 ---
 
@@ -87,7 +87,7 @@ A simulated breach in smart EV charging control systems demonstrates how Wazuh c
 - Wazuh Security Event Monitoring
 - MITRE ATT&CK Technique Mapping
 
-➡️ Screenshots: [`Dashboards`](./edr-ir-implementation.md#8-dashboard-samples)
+➡️ Screenshots: [`Dashboards`](./docs/edr-ir-implementation.md#8-dashboard-samples)
 
 ---
 
