@@ -28,8 +28,8 @@ This repository demonstrates practical implementations of **EDR (Endpoint Detect
 
 | Host             | IP             | Role                     |
 |------------------|----------------|--------------------------|
-| Wazuh Manager    | 192.168.0.103  | EDR/SIEM (Dockerized)    |
-| Ubuntu Endpoint  | 192.168.0.104  | Wazuh Agent + Red Team   |
+| Wazuh Manager    | 192.168.0.100  | EDR/SIEM (Dockerized)    |
+| Ubuntu Endpoint  | 192.168.0.101  | Wazuh Agent + Red Team   |
 | VirtualBox Host  | —              | Bridged Networking       |
 
 ➡️ Refer to: [`EDR Implementation Guide`](./docs/edr-ir-implementation.md#step-by-step-setup)
